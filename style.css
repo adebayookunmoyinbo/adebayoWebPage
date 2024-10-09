@@ -318,9 +318,11 @@ h2{
     }
 
     .computer-image {
-        max-width: 150px;
+        max-width: 200px;
+        max-height: 200px;
     }
 
+   
     .contactInfo .getInTouch {
         font-size: 1.5rem;
     }
